@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Starter Landing Page`,
-    description: `A barebone landing page starter with some minimal styles.`,
-    author: `@gillkyle`,
+    title: `CustomerOps, LLC`,
+    description: `Just a good ol' fashion website.`,
+    author: `@grahammurphy`,
     siteUrl: `https://gatsby-starter-landing-page.netlify.com`,
   },
   plugins: [
