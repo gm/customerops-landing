@@ -15,7 +15,7 @@ const Footer = ({ siteTitle }) => (
         display: "grid",
         alignItems: "center",
         justifyContent: "space-between",
-        gridTemplateColumns: "repeat(auto-fit, minmax(200px, 240px))",
+        gridTemplateColumns: "repeat(auto-fit, minmax(200px, 200px))",
         padding: "1rem 2rem",
         fontSize: ".85rem",
       }}
@@ -23,7 +23,7 @@ const Footer = ({ siteTitle }) => (
       <div style={{ color: COLORS.blue, fontWeight: 700 }}>
         <a
           style={{ textDecoration: "none" }}
-          href="https://github.com/gillkyle/gatsby-starter-landing-page"
+          href="mailto:graham@customerops.llc"
         >
           Contact Us
         </a>
