@@ -30,7 +30,7 @@ const Header = ({ siteTitle }) => (
     <p style={{ textAlign: "center", maxWidth: 440 }}>
       Because it would be an absolute shame to have a consulting company without a website.
     </p>
-    <Button>Contact Us</Button>
+    <Button onclick="window.location.href='mailto:graham@customerops.llc';">Contact Us</Button>
     
   </div>
 )
