@@ -3,7 +3,7 @@ module.exports = {
     title: `CustomerOps, LLC`,
     description: `Just a good ol' fashion website.`,
     author: `@grahammurphy`,
-    siteUrl: `https://gatsby-starter-landing-page.netlify.com`,
+    siteUrl: `https://www.customerops.llc`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
