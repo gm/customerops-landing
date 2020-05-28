@@ -28,7 +28,7 @@ const Header = ({ siteTitle }) => (
     />
     <h1 style={{ textAlign: "center" }}>CustomerOps</h1>
     <p style={{ textAlign: "center", maxWidth: 440 }}>
-      Because it would be an absolute shame to have a company without a website.
+      Because it would be an absolute shame to have a consulting company without a website.
     </p>
     <Button>Contact Us</Button>
     <div style={{ margin: 60, width: `250px`, position: "relative" }}>
