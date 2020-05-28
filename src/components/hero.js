@@ -31,20 +31,7 @@ const Header = ({ siteTitle }) => (
       Because it would be an absolute shame to have a consulting company without a website.
     </p>
     <Button>Contact Us</Button>
-    <div style={{ margin: 60, width: `250px`, position: "relative" }}>
-      <div style={{ clipPath: "inset(2% 5% round 2% 5%)" }}>
-        <MockupContent />
-      </div>
-      <div
-        style={{
-          position: "absolute",
-          width: "250px",
-          top: 0,
-        }}
-      >
-        
-      </div>
-    </div>
+    
   </div>
 )
 
